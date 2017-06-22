@@ -1,6 +1,6 @@
 {
   "name": "@atomic-package/tab",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "atomic-package - tab",
   "main": "dist/atomic-package.toggle.js",
   "scripts": {
