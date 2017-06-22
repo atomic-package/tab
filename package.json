@@ -1,8 +1,8 @@
 {
   "name": "@atomic-package/tab",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "atomic-package - tab",
-  "main": "dist/atomic-package.toggle.js",
+  "main": "dist/atomic-package.tab.js",
   "scripts": {
     "test": "$(npm bin)/mocha test/** -r test/spec_setup.js",
     "test:watch": "$(npm bin)/mocha -w test/** -r test/spec_setup.js",
